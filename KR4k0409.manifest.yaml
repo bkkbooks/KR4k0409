@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0409/v1
+canonical_location: https://kanripo.org/bkk/KR4k0409/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 襄陽耆舊傳一卷
+  identifiers:
+    krp: KR4k0409
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0409.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0409_001.yaml, hash: 'sha256:6fbfd004c29b0f4085ec28eaf65641d89ed2bb7f1e3ea3bc292aa16517ceac08'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0409_001.markers.yaml, hash: 'sha256:b6499280148ef1aa0c4919b3031d5aee7d8bf7cf8bfc4ce3bb351ab45d14c66c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0409_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1437
+  label: 襄陽耆舊傳
+  type: section
+  level: 1
+hash: sha256:721aed748e3bd8bed25ef0507dd6bda8eb1c9c9593e53c5ccc9b422d881cba11
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
