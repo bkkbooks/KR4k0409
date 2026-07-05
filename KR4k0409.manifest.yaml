@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0409_001.yaml, hash: 'sha256:6fbfd004c29b0f4085ec28eaf65641d89ed2bb7f1e3ea3bc292aa16517ceac08'}
+  - {seq: 1, filename: KR4k0409_001.yaml, hash: 'sha256:52029766273cbc1ea3ec62310105522c1a29ac5f53ca4e400b6e613a6364c9ca'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0409_001.markers.yaml, hash: 'sha256:b6499280148ef1aa0c4919b3031d5aee7d8bf7cf8bfc4ce3bb351ab45d14c66c'}
+  - {seq: 1, role: markers, filename: assets/KR4k0409_001.markers.yaml, hash: 'sha256:bfa662071d89f3da0aaf0484c072c1c8de78c3a161c2c3d48014c4ca5ba2ce8b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 襄陽耆舊傳
   type: section
   level: 1
-hash: sha256:721aed748e3bd8bed25ef0507dd6bda8eb1c9c9593e53c5ccc9b422d881cba11
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:dc5115a9dc2feab2f10fbba167ec7c8a8530838e517bd3a1df9dfe5e67591d06
